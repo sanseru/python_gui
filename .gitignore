@@ -1,0 +1,5 @@
+build/*
+diff_2folder.spec
+dist/diff_2folder.exe
+folder1/
+folder2/
